@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  color: white;
+}
+
+.header > img {
+  width: 40px;
+  margin: 15px 5px 15px 15px;
+}
+
+.header > span {
+  font-size: 25px;
+  margin: 15px 0;
+}
